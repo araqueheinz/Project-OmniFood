@@ -253,7 +253,7 @@ header {
     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, 0.7))), url(img/hero.jpg);
     background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/hero.jpg);
     background-size: cover;
-    background-position: center;
+
 
     /*SOME WITCHCRAFT WITH THE BACKGROUND IMAGE*/
     background-attachment: fixed;
