@@ -93,7 +93,8 @@
     
         /*SOME WITCHCRAFT WITH THE BACKGROUND IMAGE*/
         background-attachment: fixed;
-        height: 100vh;
+        height: 812px;
+        width: auto;
     }
     
     .row,
