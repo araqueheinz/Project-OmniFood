@@ -88,13 +88,15 @@
     header {
         background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, 0.7))), url(img/hero.jpg);
         background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/hero.jpg);
+        background-repeat: no-repeat; 
+        background-position: center;
+        background-attachment: fixed;       
+        webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
         background-size: cover;
-    
-    
-        /*SOME WITCHCRAFT WITH THE BACKGROUND IMAGE*/
-        background-attachment: fixed;
-        height: 812px;
-        width: auto;
+        height:100%;
+        width:100%; 
     }
     
     .row,
