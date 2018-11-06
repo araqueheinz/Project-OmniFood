@@ -85,20 +85,6 @@
 
     section { padding: 25px 0}
 
-    header {
-        background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, 0.7))), url(img/hero.jpg);
-        background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/hero.jpg);
-        background-repeat: no-repeat; 
-        background-position: center;
-        background-attachment: fixed;       
-        webkit-background-size: cover;
-        -moz-background-size: cover;
-        -o-background-size: cover;
-        background-size: cover;
-        height:100%;
-        width:100%; 
-    }
-    
     .row,
     .hero-text-box { padding: 0 4%;}
 
