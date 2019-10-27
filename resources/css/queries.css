@@ -159,6 +159,24 @@
 
     .works-step:last-child { margin-bottom: 20px }
 
+    .footer-nav {
+        display: block;
+        font-size: 10px;
+    }
+
+    .social-links {
+        display: block;
+        text-align: center;
+        margin: 0 auto;
+        margin-top: 10px;
+        float: none;
+    }
+
+    footer p {
+        line-height: 20px;
+        letter-spacing: 1px;
+    }
+
 }
 
 
